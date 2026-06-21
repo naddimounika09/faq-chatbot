@@ -29,7 +29,7 @@ faq_chatbot/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone repository
-git clone https://github.com/your-username/faq-chatbot.git
+git clone https://github.com/naddimounika09/faq-chatbot.git
 cd faq-chatbot
 
 ### 2. Create virtual environment (optional)
